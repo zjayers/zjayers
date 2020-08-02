@@ -11,10 +11,6 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
- <a href="https://github.com/zjayers/github-readme-stats">
-    <img width="45%" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
-  </a>
-
 <!-- Talking about you -->
 **About Me:**
 
@@ -25,6 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer;
 - How to reach me: zayers.dev@gmail.com;
 
+---
 **Languages and Tools:** 
 
 <p>
@@ -56,4 +53,8 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 </p>
+---
+<a href="https://github.com/zjayers/github-readme-stats">
+   <img width="45%" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
+</a>
 ---
