@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello, Welcome to my README!
+## Hello, I'm Zach Ayers!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -21,6 +21,8 @@ You can use the website to generate badges: https://shields.io/
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer;
 - How to reach me: zayers.dev@gmail.com;
 
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ 
 ---
 
 **Languages and Tools:**
