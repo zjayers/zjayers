@@ -14,12 +14,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on [Chalkboard](https://github.com/zjayers/chalkboard);
-- I’m currently learning Ruby on Rails, PHP, and GoLang; 
-- I’m looking to collaborate on anything!;
-- Ask me about anything, I am happy to help;
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer;
-- How to reach me: zayers.dev@gmail.com;
+- I’m currently working on [Chalkboard](https://github.com/zjayers/chalkboard).
+- I’m currently learning __Ruby on Rails__, __PHP__, and __GoLang__.
+- I’m looking to collaborate on anything!.
+- Ask me about anything, I am happy to help.
+- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
+- How to reach me: __zayers.dev@gmail.com__.
 
 ---
 
