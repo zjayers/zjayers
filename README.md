@@ -30,10 +30,6 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
-  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -75,22 +71,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
   </a>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
-</p>
-
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-  <a href="https://www.patreon.com/onimur" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
 </p>
 
 ---
