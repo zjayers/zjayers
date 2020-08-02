@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-**Languages and Tools:** 
+<h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
