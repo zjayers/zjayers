@@ -33,7 +33,7 @@ You can use the website to generate badges: https://shields.io/
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="15%" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg"></code>
+  <code><img marginBotto,="20px" width="15%" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -49,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
-  <code><img height="80px" width="15%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_karma.svg"></code>
+  <code><img height="65px" width="15%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_karma.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
