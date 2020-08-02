@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [Chalkboard](https://github.com/zjayers/chalkboard);
 - 🌱 I’m currently learning Ruby on Rails, PHP, and GoLang; 
-- 👯 I’m looking to collaborate on anything! 🤝;
+- 👯 I’m looking to collaborate on anything!;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I was a mechanical engineering before becoming a software engineer;
 - 📫 How to reach me: zayers.dev@gmail.com;
@@ -30,8 +30,8 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/zjayers/handle-path-oz">
-    <img width="55%" align="right" alt="Zach Ayers's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+  <a href="https://github.com/zjayers/github-readme-stats">
+    <img width="55%" align="right" alt="Zach Ayers's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
