@@ -64,7 +64,7 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
- <img align="left" width="20%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ <img align="right" width="20%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
 <a href="https://github.com/zjayers/github-readme-stats">
    <img width="60%" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
