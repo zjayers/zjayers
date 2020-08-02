@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Zach Ayers, a Full Stack Software Engineer 🚀 from the USA.
+## Hello, I'm Zach Ayers, a Full Stack Software Engineer
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
