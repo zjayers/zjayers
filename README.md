@@ -14,9 +14,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - I’m currently working on [Chalkboard](https://github.com/zjayers/chalkboard);
 - I’m currently learning Ruby on Rails, PHP, and GoLang; 
 - I’m looking to collaborate on anything!;
