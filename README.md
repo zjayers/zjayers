@@ -17,26 +17,19 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Chalkboard](https://github.com/zjayers/chalkboard);
-- 🌱 I’m currently learning Ruby on Rails, PHP, and GoLang; 
-- 👯 I’m looking to collaborate on anything!;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I was a mechanical engineering before becoming a software engineer;
-- 📫 How to reach me: zayers.dev@gmail.com;
+- I’m currently working on [Chalkboard](https://github.com/zjayers/chalkboard);
+- I’m currently learning Ruby on Rails, PHP, and GoLang; 
+- I’m looking to collaborate on anything!;
+- Ask me about anything, I am happy to help;
+- Fun-Fact: I was a mechanical engineering before becoming a software engineer;
+- How to reach me: zayers.dev@gmail.com;
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 <p>
   <a href="https://github.com/zjayers/github-readme-stats">
-    <img width="55%" align="right" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
+    <img width="45%" align="right" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
   </a>
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
