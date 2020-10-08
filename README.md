@@ -14,12 +14,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Natours](http://natours-ayers.herokuapp.com/)__.
+- I’m currently working on __[Vocation](https://chrome.google.com/webstore/detail/vocation/icppkimiacdjokmejcmlhhdphlanokbo?hl=en)__.
 - I’m currently learning __Ruby on Rails__, __Vue__, & __GoLang__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __z.ayers@icloud.com__
+- How to reach me: __ayers.dev@icloud.com__
 
 ---
 
