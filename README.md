@@ -22,12 +22,6 @@ You can use the website to generate badges: https://shields.io/
 - How to reach me: __ayers.dev@icloud.com__
 
 ---
-<div>
-<img width="50%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
-<img width="40%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
-</div>
-
----
 
 **Languages and Tools:**
 
@@ -72,3 +66,11 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
 </p>
+
+---
+<div>
+<img width="40%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
+<img width="50%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
+</div>
+
+---
