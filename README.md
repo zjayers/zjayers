@@ -10,8 +10,6 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
 
 &nbsp;
-<div>
-<img width="40%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
 
 **About Me:**
 
@@ -21,11 +19,12 @@ You can use the website to generate badges: https://shields.io/
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
 - How to reach me: __ayers.dev@icloud.com__
-</div>
+
+
 ---
 
 <div>
-
+<img width="40%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
 <img width="50%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
 </div>
 
