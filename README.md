@@ -23,8 +23,8 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 <div>
-<img width="40%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
-<img width="50%" height="350px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
+<img width="40%" height="280px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
+<img width="50%" height="280px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
 </div>
 
 ---
