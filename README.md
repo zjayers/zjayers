@@ -23,12 +23,12 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-<a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
-</a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact)](https://github.com/zjayers/github-readme-stats)
+<div>
+   <a href="https://github.com/zjayers/github-readme-stats">
+      <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
+      <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
+   </a>
+</div>
 
 ---
 
