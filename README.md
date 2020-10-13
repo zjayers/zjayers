@@ -11,7 +11,6 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<!-- Talking about you -->
 **About Me:**
 
 - I’m currently working on __[Vocation](https://chrome.google.com/webstore/detail/vocation/icppkimiacdjokmejcmlhhdphlanokbo?hl=en)__.
@@ -20,6 +19,16 @@ You can use the website to generate badges: https://shields.io/
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
 - How to reach me: __ayers.dev@icloud.com__
+
+---
+
+<div>
+<img width="40%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
+  
+&nbsp;
+  
+<img width="50%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
+</div>
 
 ---
 
@@ -66,11 +75,5 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
 </p>
-
----
-<div>
-<img width="40%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
-<img width="50%" height="300px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
-</div>
 
 ---
