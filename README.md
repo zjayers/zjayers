@@ -23,6 +23,16 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
+<a href="https://github.com/zjayers/github-readme-stats">
+   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10)](https://github.com/zjayers/github-readme-stats)
+
+---
+
 **Languages and Tools:**
 
 <p>
@@ -66,13 +76,3 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
 </p>
-
----
-
-<a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
