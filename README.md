@@ -21,11 +21,10 @@ You can use the website to generate badges: https://shields.io/
 
 **Overview:**
 
-<div>
-<img width="40%" height="280px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjayers&langs_count=10&layout=compact" />
-<img width="50%" height="280px" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
-</div>
-
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ---
 
 **Languages and Tools:**
