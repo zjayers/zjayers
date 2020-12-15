@@ -21,10 +21,11 @@ You can use the website to generate badges: https://shields.io/
 
 **Overview:**
 
-[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/zjayers?tab=repositories)
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/zjayers?tab=repositories)
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/zjayers?tab=repositories)
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/zjayers?tab=repositories)
+
 ---
 
 **Languages and Tools:**
