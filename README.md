@@ -1,12 +1,6 @@
-<!-- Your title -->
 ## Hello, I'm Zach Ayers!
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
 
 **About Me:**
@@ -22,6 +16,7 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 **Overview:**
+
 [![](https://wakatime.com/share/@e955c4a9-51c7-482a-96fb-8c34a83236c8/1a2fd179-c240-439c-ac46-deca3aa58155.svg)](https://github.com/zjayers?tab=repositories)
 
 ---
