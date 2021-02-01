@@ -25,8 +25,8 @@ You can use the website to generate badges: https://shields.io/
 [![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/zjayers?tab=repositories)
 [![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/zjayers?tab=repositories)
 
-<figure><embed src="https://wakatime.com/share/@e955c4a9-51c7-482a-96fb-8c34a83236c8/5fd8bee8-9f0a-4afe-bb2d-e3d7fc804976.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@e955c4a9-51c7-482a-96fb-8c34a83236c8/1a2fd179-c240-439c-ac46-deca3aa58155.svg"></embed></figure>
+[![](https://wakatime.com/share/@e955c4a9-51c7-482a-96fb-8c34a83236c8/5fd8bee8-9f0a-4afe-bb2d-e3d7fc804976.svg)](https://github.com/zjayers?tab=repositories)
+[![](https://wakatime.com/share/@e955c4a9-51c7-482a-96fb-8c34a83236c8/1a2fd179-c240-439c-ac46-deca3aa58155.svg)](https://github.com/zjayers?tab=repositories)
 
 ---
 
