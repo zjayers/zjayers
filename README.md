@@ -11,6 +11,8 @@ You can use the website to generate badges: https://shields.io/
 
 **About Me:**
 
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/zjayers?tab=repositories)
+
 - I’m currently working on __[Vocation](https://chrome.google.com/webstore/detail/vocation/icppkimiacdjokmejcmlhhdphlanokbo?hl=en)__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
@@ -21,6 +23,7 @@ You can use the website to generate badges: https://shields.io/
 
 **Overview:**
 [![](https://wakatime.com/share/@e955c4a9-51c7-482a-96fb-8c34a83236c8/1a2fd179-c240-439c-ac46-deca3aa58155.svg)](https://github.com/zjayers?tab=repositories)
+
 ---
 
 **Languages and Tools:**
