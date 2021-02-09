@@ -5,13 +5,13 @@
 
 **About Me:**
 
-[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/zjayers?tab=repositories)
-
 - I’m currently working on __[Vocation](https://chrome.google.com/webstore/detail/vocation/icppkimiacdjokmejcmlhhdphlanokbo?hl=en)__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
 - How to reach me: __ayers.dev@icloud.com__
+
+[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/zjayers?tab=repositories)
 
 ---
 
