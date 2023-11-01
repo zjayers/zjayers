@@ -7,12 +7,6 @@
 
 ---
 
-**Overview:**
-
-[![](https://wakatime.com/share/@e955c4a9-51c7-482a-96fb-8c34a83236c8/1a2fd179-c240-439c-ac46-deca3aa58155.svg)](https://github.com/zjayers?tab=repositories)
-
----
-
 **Languages and Tools:**
 
 <p>
